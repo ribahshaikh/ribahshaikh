@@ -11,7 +11,7 @@ I am a seasoned Analyst with over 3 years of experience in **Business Intelligen
 
 ---
 
-## My Recent Works: 
+## My Projects: 
 
 | Repository                                       | Description                                                                                                   |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
