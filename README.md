@@ -19,6 +19,7 @@ I am a seasoned Analyst with over 3 years of experience in **Business Intelligen
 | [Data Cleaning in MYSQL](https://github.com/ribahshaikh/data_cleaning_in_mysql)                | SQL-based Data Cleaning project for optimizing raw data, removing inconsistencies, and improving dataset quality for analysis. |
 | [Retail Sales Analysis Using SQL](https://github.com/ribahshaikh/sql_retail_sales_project1)                         | SQL-driven retail sales analysis involving database setup, data cleaning, EDA, and trend reporting to deliver insights on peak sales periods, top-spending customers, and product performance.   |
 | [Clothing Insights: Size and Color Trends Analysis Using SQL](https://github.com/ribahshaikh/apparael_size_and_color_profiling_analysis)                         | SQL-based analysis project focusing on identifying popular sizes and colors across various clothing items, examining seasonal trends, and optimizing inventory strategies. Includes in-depth trend reporting to reveal top-selling sizes, customer-preferred colors, and high-revenue items based on seasonal demand insights.   |
+| [Power BI Dashboard for Superstore Sales Analysis & Forecasting](https://github.com/ribahshaikh/powerbi_sales_dashboard)  | Sales insights and forecasting in Power BI with advanced data analytics and dynamic visualizations.  |
 
 ---
 
