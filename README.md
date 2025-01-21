@@ -20,6 +20,7 @@ I am a seasoned Analyst with over 3 years of experience in **Business Intelligen
 | [Retail Sales Analysis Using SQL](https://github.com/ribahshaikh/sql_retail_sales_project1)                         | SQL-driven retail sales analysis involving database setup, data cleaning, EDA, and trend reporting to deliver insights on peak sales periods, top-spending customers, and product performance.   |
 | [Clothing Insights: Size and Color Trends Analysis Using SQL](https://github.com/ribahshaikh/apparael_size_and_color_profiling_analysis)                         | SQL-based analysis project focusing on identifying popular sizes and colors across various clothing items, examining seasonal trends, and optimizing inventory strategies. Includes in-depth trend reporting to reveal top-selling sizes, customer-preferred colors, and high-revenue items based on seasonal demand insights.   |
 | [Power BI Dashboard for Superstore Sales Analysis & Forecasting](https://github.com/ribahshaikh/powerbi_sales_dashboard)  | Sales insights and forecasting in Power BI with advanced data analytics and dynamic visualizations.  |
+| [Housing Price Prediction using Python](https://github.com/ribahshaikh/california_housing_price_prediction_using_python_and_ml) | Utilized Python for exploratory data analysis, feature engineering, and machine learning to predict California housing prices, leveraging models like Linear Regression, Decision Tree, and Random Forest to deliver data-driven insights into real estate trends. |
 
 ---
 
